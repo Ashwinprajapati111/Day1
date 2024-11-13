@@ -25,6 +25,5 @@ def table(a,b):
    for x in ourRange:
       result = b * x
       print(b," * ",x," = ",result)
-
       
 table(5,ourNum)
